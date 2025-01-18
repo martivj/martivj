@@ -2,9 +2,7 @@
 
 💻 Fullstack Software Developer | 🌐 Web & 📱 App | 🎓 Physics BSc & MSc | 🎓 Computer Science BSc
 
-<!-- ---
-
-<p style="display: flex; justify-content: start; gap: 6px;">
+<!-- <p style="display: flex; justify-content: start; gap: 6px;">
   <a href="#projects">🔭 Projects</a> •
   <a href="#tech-stack">🛠️ Tech Stack</a> •
   <a href="#stats">📈 Stats</a> •
@@ -32,8 +30,6 @@
 [![typescript][typescript-badge]][typescript-url]
 [![java][java-badge]][java-url]
 [![dart][dart-badge]][dart-url]
-
-<!-- [![rust][rust-badge]][rust-url] -->
 
 ### Frontend & UI
 
@@ -85,7 +81,7 @@
 
 <h2 id="stats">📈 GitHub Stats</h2>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; gap: 10px;">
   <img 
     height=200 
     src="https://github-readme-stats-git-master-martivj-private.vercel.app/api?username=martivj&show_icons=true&theme=github_dark_dimmed&line_height=29" 
@@ -105,16 +101,20 @@
 
 ### Portfolio (WIP)
 
-[![Portfolio](https://img.shields.io/badge/martivj.com-9bc2ef?style=for-the-badge&logo=vercel&logoColor=08374a&labelColor=ffffff)](https://martivj.com)
+[![portfolio][portfolio-badge]][portfolio-url]
 
 ---
 
-<!-- Star Symbol Emoji: ⭐️ -->
-
 ⭐️ [@martivj](https://github.com/martivj/martivj)
+
+<!-- Variables -->
+
+[portfolio-url]: https://martivj.com
+[portfolio-badge]: https://img.shields.io/badge/martivj.com-9bc2ef?style=for-the-badge&logo=vercel&logoColor=08374a&labelColor=ffffff
 
 <!-- ----------------------------------------------------------------------------- -->
 <!-- ------------------------------ Badge Variables ------------------------------ -->
+<!-- ----- Generated with the https://github.com/martivj/BadgeGenerator tool ----- -->
 <!-- --------------- Copy and paste the variables in your .md file --------------- -->
 <!-- ----------------------------------------------------------------------------- -->
 
