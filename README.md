@@ -173,7 +173,7 @@
 [render-badge]: https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=000000&labelColor=ffffff
 [maven-url]: https://maven.apache.org/
 [maven-badge]: https://tinyurl.com/2doa8a6l
-[neon-url]: https://neon-lang.org/
+[neon-url]: https://neon.tech/
 [neon-badge]: https://tinyurl.com/2898gwjx
 [postgresql-url]: https://www.postgresql.org/
 [postgresql-badge]: https://tinyurl.com/29x8okq5
