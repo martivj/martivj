@@ -14,6 +14,7 @@
 ### Public
 
 - 📊 [**HoursReportGenerator**](https://github.com/martivj/HoursReportGenerator) (web app): Data processing tool for generating formatted Excel reports from time tracking CSV files. Building with Python and openpyxl in the Flask framework, currently hosting on Render.
+- 🏷️ [**BadgeGenerator**](https://github.com/martivj/BadgeGenerator): Simple CLI tool for generating markdown friendly badges with [shields.io](https://shields.io/) (used for this profile page). Building with Python.
 
 ### Private
 
