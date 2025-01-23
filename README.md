@@ -18,7 +18,7 @@
 
 ### Private
 
-- 📳 **Bachelor's project** (mobile/embedded): Upcoming IoT deposit box project in affiliation with [Bouvet](https://www.bouvet.no/).
+- 📳 **Bachelor's project** (mobile/embedded): Upcoming IoT deposit box project in affiliation with [Bouvet](https://www.bouvet.no/). Will involve embedded C programming and integrations with a .NET backend.
 - 💡 **IdéBankSLI** (desktop app): Learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). Building with TypeScript (React + Vite) and a Tauri bundler, Convex for the backend.
 - 💼 **Portfolio** (website): Personal website for showcasing previous projects. Building with Next.js 15 and the Strapi 5 headless CMS.
 - ⌛ **Temporas** (desktop/mobile): Productivity app for tracking your time. Building with Flutter and AWS Amplify (AppSync, Cognito, DynamoDB).
