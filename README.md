@@ -60,12 +60,14 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
-### Main Languages
+### Languages
 
 [![python][python-badge]][python-url]
 [![typescript][typescript-badge]][typescript-url]
 [![java][java-badge]][java-url]
 [![dart][dart-badge]][dart-url]
+[![c][c-badge]][c-url]
+[![csharp][csharp-badge]][csharp-url]
 
 ### Frontend & UI
 
@@ -83,6 +85,7 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 [![nodejs][nodejs-badge]][nodejs-url]
 [![express_js][express_js-badge]][express_js-url]
 [![spring_boot][spring_boot-badge]][spring_boot-url]
+[![dotnet][dotnet-badge]][dotnet-url]
 [![graphql][graphql-badge]][graphql-url]
 [![apollo_graphql][apollo_graphql-badge]][apollo_graphql-url]
 [![flask][flask-badge]][flask-url]
@@ -102,6 +105,7 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 ### Cloud & Infrastructure
 
 [![aws][aws-badge]][aws-url]
+[![azure][azure-badge]][azure-url]
 [![vercel][vercel-badge]][vercel-url]
 [![render][render-badge]][render-url]
 [![neon][neon-badge]][neon-url]
@@ -226,9 +230,17 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 [aws_s3-badge]: https://tinyurl.com/2bmjxtay
 [docker-url]: https://www.docker.com/
 [docker-badge]: https://tinyurl.com/278rykn6
-[email-url]: mailto:martinvagseterjakobsen@yahoo.no
 [email-badge]: https://tinyurl.com/27f9hqvj
 [msw-url]: https://mswjs.io/
 [msw-badge]: https://tinyurl.com/2cj82qur
 [electron-url]: https://www.electronjs.org/
 [electron-badge]: https://tinyurl.com/2anapt3o
+[email-url]: mailto:martinvagseterjakobsen@yahoo.no
+[c-url]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c-badge]: https://tinyurl.com/249mjzb9
+[csharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[csharp-badge]: https://tinyurl.com/2c9p4knv
+[dotnet-url]: https://dotnet.microsoft.com/
+[dotnet-badge]: https://tinyurl.com/26sekyup
+[azure-url]: https://azure.microsoft.com/
+[azure-badge]: https://tinyurl.com/2b7fwu7m
