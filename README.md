@@ -13,7 +13,7 @@
 <h2 id="about">🧑‍💻 About Me</h2>
 
 Hello! I am a 26 year old fullstack software developer from Norway, with a background in science as a Physics MSc. 
-I love learning about new technologies, and I actively pursue projects in both the web development world, as well as mobile apps and embedded programming. 
+I love learning about new technologies, and I actively pursue projects in the worlds of web development, mobile/desktop app development, and some embedded programming. 
 
 As a fullstack developer I have experience with all kinds of front- and backend technologies, including DevOps facing work and integrations with cloud platforms like AWS.
 During my Master's education in physics I specialized in problem solving with Python, running numerical simulations for reasearch on materials with quantum chemistry techniques.
