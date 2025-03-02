@@ -3,13 +3,41 @@
 💻 Fullstack Software Developer | 🌐 Web & 📱 App | 🎓 Physics BSc & MSc | 🎓 Computer Science BSc
 
 <!-- <p style="display: flex; justify-content: start; gap: 6px;">
+  <a href="#about">🧑‍💻 About Me</a> •
   <a href="#projects">🔭 Projects</a> •
   <a href="#tech-stack">🛠️ Tech Stack</a> •
   <a href="#stats">📈 Stats</a> •
   <a href="#links">🔗 Links</a>
 </p> -->
 
-<h2 id="projects">🔭 Current Projects
+<h2 id="about">🧑‍💻 About Me
+
+Hello! I am a 26 year old fullstack software developer from Norway, with a background in science as a Physics MSc. 
+I love learning about new technologies, and I actively pursue projects in both the web development world as well as mobile apps. 
+As a fullstack developer I have experience with all kinds of front- and backend technologies, including DevOps facing work and integrations with cloud platforms like AWS.
+During my Master's education in physics I specialized in problem solving with Python, running numerical simulations for reasearch on materials with quantum chemistry techniques.
+My go-to languages are TypeScript for web development, Flutter for app development, Java for backend APIs, and Python for anything scripting, machine learning or numerical simulations.
+
+**Work**
+
+I am currently working as the lead developer for Go Arctic Tern LLC, a US-based company focused on helping immigrants within the country. 
+We recently launched the [MyGreatTimeline](https://play.google.com/store/apps/details?id=com.arctictern.mygreattimeline) app project on Android, with an iOS version soon to follow!
+
+**University**
+
+In addition to my consultant job I am currently finishing a bachelor's degree in informatics at NTNU in Trondheim, Norway. 
+The final project tackles embedded programming on IoT devices powered by [Nordic Semiconductor](https://www.nordicsemi.com/) chips, where we are writing C code to communicate over MQTT to a .NET based backend. 
+Compared to my previous experience, this project is much closer to hardware, which makes for a great learning experience to become more well rounded as a developer!
+
+**Side projects**
+
+As a side project I am developing a desktop-based learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). 
+The MVP was completed in January this year, and after some improvements I am planning to open source the code of the project as a customizable template. 
+
+Another noteworthy side project has been the Temporas desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024. 
+We are a team of 3 developers, building with Flutter and AWS Amplify, planning to get the product out on app stores some time in 2025.
+
+<h2 id="projects">🔭 Current Projects Overview
 
 ### Public
 
@@ -18,10 +46,11 @@
 
 ### Private
 
-- 📳 **Bachelor's project** (mobile/embedded): Upcoming IoT deposit box project in affiliation with [Bouvet](https://www.bouvet.no/). Will involve embedded C programming and integrations with a .NET backend.
+- 📄 **MyGreatTimeline** (mobile app): A document storage solution to help immigrants in the US show proof of presence. Building with Flutter to distribute bundles for both Android and iOS.
+- 📳 **Bachelor's project** (mobile/embedded): IoT devices project for battery sensor monitoring on a boat, working in affiliation with [Bouvet](https://www.bouvet.no/). Involves embedded C programming and integrations with a .NET backend over MQTT, and visualization in a Next.js frontend.
 - 💡 **IdéBankSLI** (desktop app): Learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). Building with TypeScript (React + Vite) and a Tauri bundler, Convex for the backend.
-- 💼 **Portfolio** (website): Personal website for showcasing previous projects. Building with Next.js 15 and the Strapi 5 headless CMS.
-- ⌛ **Temporas** (desktop/mobile): Productivity app for tracking your time. Building with Flutter and AWS Amplify (Cognito, AppSync, DynamoDB).
+- ⌛ **Temporas** (desktop/mobile): Productivity app for tracking your time. Building with Flutter and AWS Amplify (Cognito, AppSync, DynamoDB). Currently in the pre-release phase, working towards a launch on Android/iOS app stores.
+- 💼 **Portfolio** (website): Personal website for showcasing previous projects. Building with Next.js 15 and the Strapi 5 headless CMS. Continuous development currently on hold.
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
@@ -100,9 +129,9 @@
 [![email][email-badge]][email-url]
 [![linkedin][linkedin-badge]][linkedin-url]
 
-### Portfolio (WIP)
+<!-- ### Portfolio (WIP)
 
-[![portfolio][portfolio-badge]][portfolio-url]
+[![portfolio][portfolio-badge]][portfolio-url] -->
 
 ---
 
