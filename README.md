@@ -66,8 +66,8 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 [![typescript][typescript-badge]][typescript-url]
 [![java][java-badge]][java-url]
 [![dart][dart-badge]][dart-url]
-[![c][c-badge]][c-url]
 [![csharp][csharp-badge]][csharp-url]
+[![c][c-badge]][c-url]
 
 ### Frontend & UI
 
