@@ -17,7 +17,9 @@ I love learning about new technologies, and I actively pursue projects in both t
 
 As a fullstack developer I have experience with all kinds of front- and backend technologies, including DevOps facing work and integrations with cloud platforms like AWS.
 During my Master's education in physics I specialized in problem solving with Python, running numerical simulations for reasearch on materials with quantum chemistry techniques.
+
 My go-to languages are TypeScript for web development, Flutter for app development, Java for backend APIs, and Python for anything scripting, machine learning or numerical simulations.
+I recently became inspired to try more embedded programming on IoT devices with C, and learn C# for .NET backend development.
 
 **Work**
 
