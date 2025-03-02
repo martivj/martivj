@@ -10,7 +10,7 @@
   <a href="#links">🔗 Links</a>
 </p> -->
 
-<h2 id="about">🧑‍💻 About Me
+<h2 id="about">🧑‍💻 About Me</h2>
 
 Hello! I am a 26 year old fullstack software developer from Norway, with a background in science as a Physics MSc. 
 I love learning about new technologies, and I actively pursue projects in both the web development world as well as mobile apps. 
@@ -37,7 +37,7 @@ The MVP was completed in January this year, and after some improvements I am pla
 Another noteworthy side project has been the Temporas desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024. 
 We are a team of 3 developers, building with Flutter and AWS Amplify, planning to get the product out on app stores some time in 2025.
 
-<h2 id="projects">🔭 Current Projects Overview
+<h2 id="projects">🔭 Current Projects Overview</h2>
 
 ### Public
 
