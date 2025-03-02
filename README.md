@@ -198,7 +198,7 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 [flask-badge]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=000000&labelColor=ffffff
 [strapi-url]: https://strapi.io/
 [strapi-badge]: https://tinyurl.com/27phpql3
-[linkedin-url]: https://linkedin.com/in/martin-vågseter-jakobsen-57157a224/
+[linkedin-url]: https://linkedin.com/in/martivj
 [linkedin-badge]: https://tinyurl.com/25tqk9q9
 [vercel-url]: https://vercel.com/
 [vercel-badge]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ffffff
