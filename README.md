@@ -14,6 +14,7 @@
 
 Hello! I am a 26 year old fullstack software developer from Norway, with a background in science as a Physics MSc. 
 I love learning about new technologies, and I actively pursue projects in both the web development world as well as mobile apps. 
+
 As a fullstack developer I have experience with all kinds of front- and backend technologies, including DevOps facing work and integrations with cloud platforms like AWS.
 During my Master's education in physics I specialized in problem solving with Python, running numerical simulations for reasearch on materials with quantum chemistry techniques.
 My go-to languages are TypeScript for web development, Flutter for app development, Java for backend APIs, and Python for anything scripting, machine learning or numerical simulations.
