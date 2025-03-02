@@ -38,9 +38,9 @@ Compared to my previous experience, this project is much closer to hardware, whi
 **Side projects**
 
 As a side project I am developing a desktop-based learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). 
-The MVP was completed in January this year, and after some improvements I am planning to open source the code of the project as a customizable template. 
+The "IdéBankSLI" MVP was completed in January this year, and after some improvements I am planning to open source the code of the project as a customizable template. 
 
-Another noteworthy side project has been the Temporas desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024. 
+Another noteworthy side project has been the "Temporas" desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024. 
 We are a team of 3 developers, building with Flutter and AWS Amplify, planning to get the product out on app stores some time in 2025.
 
 <h2 id="projects">🔭 Current Projects Overview</h2>
