@@ -30,6 +30,7 @@ We recently launched the [MyGreatTimeline](https://play.google.com/store/apps/de
 
 In addition to my consultant job I am currently finishing a bachelor's degree in informatics at NTNU in Trondheim, Norway.
 The final project involves setting up a battery sensor monitoring system on a boat, where we work as consultants for [Bouvet](https://www.bouvet.no/) with [Kystlaget Trondhjem](https://www.kystlaget-trh.no/) as the customer.
+
 I am tackling embedded programming on IoT devices powered by [Nordic Semiconductor](https://www.nordicsemi.com/) chips, writing C code to communicate over MQTT to a .NET based backend. 
 
 Compared to my previous experience, this project is much closer to hardware, which makes for a great learning experience to become more well rounded as a developer!
