@@ -24,7 +24,7 @@ I have recently become inspired to try more embedded C programming on IoT device
 **Work**
 
 I am currently working as the lead developer for Go Arctic Tern LLC, a US-based company focused on helping immigrants within the country. 
-We recently launched the [MyGreatTimeline](https://play.google.com/store/apps/details?id=com.arctictern.mygreattimeline) app project on Android, with an iOS version soon to follow!
+ We recently launched the MyGreatTimeline app project on Android and iOS, check it out [here](https://mygreattimeline.com)!
 
 **University**
 
