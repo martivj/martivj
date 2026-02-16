@@ -1,19 +1,24 @@
 # Martin Vågseter Jakobsen
 
+// 💻 Software Developer at [the Norwegian Digitalisation Agency](https://www.digdir.no/digdir/about-norwegian-digitalisation-agency/887) <br>
+// 🎓 Master of Science in Physics - BSc & MSc <br>
+// 🎓 Computer Science BSc
+
+<!--
 💻 Fullstack Software Developer | 🌐 Web & 📱 App | 🎓 Physics BSc & MSc | 🎓 Computer Science BSc
 
-<!-- <p style="display: flex; justify-content: start; gap: 6px;">
+<p style="display: flex; justify-content: start; gap: 6px;">
   <a href="#about">🧑‍💻 About Me</a> •
   <a href="#projects">🔭 Projects</a> •
   <a href="#tech-stack">🛠️ Tech Stack</a> •
   <a href="#stats">📈 Stats</a> •
   <a href="#links">🔗 Links</a>
-</p> -->
+</p>
 
 <h2 id="about">🧑‍💻 About Me</h2>
 
-Hello! I am a 26 year old software developer from Norway, with a background in science as a Physics MSc. 
-I love learning about new technologies, and I actively pursue projects in the worlds of web development, mobile/desktop app development, and some embedded programming. 
+Hello! I am a 26 year old software developer from Norway, with a background in science as a Physics MSc.
+I love learning about new technologies, and I actively pursue projects in the worlds of web development, mobile/desktop app development, and some embedded programming.
 
 As a fullstack developer I have experience with all kinds of front- and backend technologies, including DevOps facing work and integrations with cloud platforms like AWS.
 During my Master's education in physics I specialized in problem solving with Python, running numerical simulations for research on materials with quantum chemistry techniques.
@@ -23,24 +28,24 @@ I have recently become inspired to try more embedded C programming on IoT device
 
 **Work**
 
-I am currently working as the lead developer for Go Arctic Tern LLC, a US-based company focused on helping immigrants within the country. 
- We recently launched the MyGreatTimeline app project on Android and iOS, check it out [here](https://mygreattimeline.com)!
+I am currently working as the lead developer for Go Arctic Tern LLC, a US-based company focused on helping immigrants within the country.
+We recently launched the MyGreatTimeline app project on Android and iOS, check it out [here](https://mygreattimeline.com)!
 
 **University**
 
 In addition to my consultant job I am currently finishing a bachelor's degree in informatics at NTNU in Trondheim, Norway.
 The final project involves setting up a battery sensor monitoring system on a boat, where we work as consultants for [Bouvet](https://www.bouvet.no/) with [Kystlaget Trondhjem](https://www.kystlaget-trh.no/) as the customer.
 
-My role in the project includes tackling embedded programming on IoT devices powered by [Nordic Semiconductor](https://www.nordicsemi.com/) chips, writing C code to communicate over MQTT to a .NET based backend. 
+My role in the project includes tackling embedded programming on IoT devices powered by [Nordic Semiconductor](https://www.nordicsemi.com/) chips, writing C code to communicate over MQTT to a .NET based backend.
 
 Compared to my previous experience, this project is much closer to hardware, which makes for a great learning experience to become more well rounded as a developer!
 
 **Side projects**
 
-As a side project I am developing a desktop-based learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). 
-The "IdéBankSLI" MVP was completed in January this year, and after some improvements I am planning to open source the code of the project as a customizable template. 
+As a side project I am developing a desktop-based learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/).
+The "IdéBankSLI" MVP was completed in January this year, and after some improvements I am planning to open source the code of the project as a customizable template.
 
-Another noteworthy side project has been the "Temporas" desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024. 
+Another noteworthy side project has been the "Temporas" desktop/mobile app, a time tracking tool for productivity that I myself have been using every day since our MVP of autumn 2024.
 We are a team of 3 developers, building with Flutter and AWS Amplify, planning to get the product out on app stores some time in 2025.
 
 <h2 id="projects">🔭 Current Projects Overview</h2>
@@ -57,6 +62,8 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 - 💡 **IdéBankSLI** (desktop app): Learning resource sharing platform for lecturers in adult education, in affiliation with a team at [SLI Senja](https://sli-senja.no/). Building with TypeScript (React + Vite) and a Tauri bundler, Convex for the backend.
 - ⌛ **Temporas** (desktop/mobile): Productivity app for tracking your time. Building with Flutter and AWS Amplify (Cognito, AppSync, DynamoDB). Currently in the pre-release phase, working towards a launch on Android/iOS app stores.
 - 💼 **Portfolio** (website): Personal website for showcasing previous projects. Building with Next.js 15 and the Strapi 5 headless CMS. Continuous development currently on hold.
+
+-->
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
@@ -123,13 +130,13 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 
 <div style="display: flex; gap: 10px;">
   <img 
-    height=200 
+    height=250 
     src="https://github-readme-stats-git-master-martivj-private.vercel.app/api?username=martivj&show_icons=true&theme=github_dark_dimmed&line_height=29" 
     alt="Martin's GitHub Stats - Commits, PRs, Issues and Contributions" />
-  <img 
+  <!-- <img 
     height=200 
     src="https://github-readme-stats-git-master-martivj-private.vercel.app/api/top-langs/?username=martivj&layout=donut&theme=github_dark_dimmed&hide=jupyter%20notebook" 
-    alt="Martin's Most Used Languages" />
+    alt="Martin's Most Used Languages" /> -->
 </div>
 
 <h2 id="links">🔗 Links</h2>
@@ -145,7 +152,7 @@ We are a team of 3 developers, building with Flutter and AWS Amplify, planning t
 
 ---
 
-⭐️ [@martivj](https://github.com/martivj/martivj)
+<!-- ⭐️ [@martivj](https://github.com/martivj/martivj) -->
 
 <!-- Variables -->
 
