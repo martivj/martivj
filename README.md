@@ -1,7 +1,9 @@
   <h1>Martin Vågseter Jakobsen</h1>
-  <h3>// 💻 Software Developer at <a href="https://www.digdir.no/digdir/about-norwegian-digitalisation-agency/887">the Norwegian Digitalisation Agency</a><br>
-  // 🎓 Master of Science in Physics - BSc & MSc<br>
-  // 🎓 Computer Science BSc</h3>
+  <div style="font-size:1.17em; font-weight:bold; margin:0 0 8px 0; line-height:1.3;">
+    // 💻 Software Developer at <a href="https://www.digdir.no/digdir/about-norwegian-digitalisation-agency/887">the Norwegian Digitalisation Agency</a><br>
+    // 🎓 Master of Science in Physics - BSc & MSc<br>
+    // 🎓 Computer Science BSc
+  </div>
 
 <!--
 💻 Fullstack Software Developer | 🌐 Web & 📱 App | 🎓 Physics BSc & MSc | 🎓 Computer Science BSc
